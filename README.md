@@ -21,7 +21,7 @@ It contains the following 6 fields:
 
 https://www.kaggle.com/kazanova/sentiment140
 
-Download the dataset in .txt format and name it as 'twitterdataset.csv' and save it where 'sentiment_analysis.ipynb' file is cloned.
+Download the dataset in .csv format and name it as 'twitterdataset.csv' and save it where 'sentiment_analysis.ipynb' file is cloned.
 
 # Project Overview
 

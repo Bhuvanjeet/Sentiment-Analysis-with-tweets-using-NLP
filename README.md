@@ -31,7 +31,7 @@ Download the dataset in .csv format and name it as 'twitterdataset.csv' and save
 
 3- Analysis from Data Visualization
 
-**Natural Language Processing (NLP)
+**Natural Language Processing (NLP)**
 
 4- Data Cleaning and Text Pre-processing
 
@@ -39,7 +39,7 @@ Download the dataset in .csv format and name it as 'twitterdataset.csv' and save
 
 6- Term frequency - Inverse document frequency (TF-IDF)
 
-**Machine Learning Model Training
+**Machine Learning Model Training**
 
 7- Train and Test Split (80:20)
 

@@ -17,13 +17,13 @@ It contains the following 6 fields:
 
 6- text: the text of the tweet (Lyx is cool)
 
-# Source-Kaggle
+## Source-Kaggle
 
 https://www.kaggle.com/kazanova/sentiment140
 
 Download the dataset in .csv format and name it as 'twitterdataset.csv' and save it where 'sentiment_analysis.ipynb' file is cloned.
 
-# Project Overview
+## Project Overview
 
 1- Exploratory Data Analysis
 
